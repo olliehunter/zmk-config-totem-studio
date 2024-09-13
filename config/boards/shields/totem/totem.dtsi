@@ -10,8 +10,6 @@
     chosen {
 		zmk,physical-layout = &default_layout;
 		zmk,studio-rpc-uart = &uart1;
-        zmk,kscan = &kscan0;
-        zmk,matrix_transform = &default_transform;
     };
 
     default_transform: default_transform {

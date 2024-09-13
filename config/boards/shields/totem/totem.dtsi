@@ -3,8 +3,8 @@
  *
  * SPDX-License-Identifier: MIT
  */
-
-&uart1 { status = "okay"; };
+#include <dt-bindings/zmk/matrix_transform.h>
+#include <physical_layouts.dtsi>
 
 / {
     chosen {
@@ -14,7 +14,7 @@
         zmk,matrix_transform = &default_transform;
     };
 
-    default_transform: keymap_transform_0 {
+    default_transform: default_transform {
         compatible = "zmk,matrix-transform";
         columns = <10>;
         rows = <4>;

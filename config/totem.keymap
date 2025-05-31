@@ -92,7 +92,7 @@
        &kp Q  &kp W        &kp E           &kp R            &kp T           &kp Y        &kp U        &kp I            &kp O        &kp P
        &kp A  &mt RCTRL S  &mt LEFT_ALT D  &mt LEFT_META F  &kp G           &kp H        &mt RMETA J  &mt RIGHT_ALT K  &mt RCTRL L  &kp SEMI
 &none  &kp Z  &kp X        &kp C           &kp V            &kp B           &kp N        &kp M        &kp COMMA        &kp DOT      &kp FSLH  &none
-                           &none           &kp BACKSPACE    &kp LEFT_SHIFT  &lt 2 SPACE  &to 1        &mo 3
+                           &none           &kp BACKSPACE    &kp LEFT_SHIFT  &lt 2 SPACE  &mo 1        &mo 3
             >;
         };
 
